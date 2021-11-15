@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">E-commerce</string>
+    <string name="sales_icon">Sales_icon</string>
+    <string name="rectangle_icon">Rectangle_icon</string>
+    <string name="recycler_icon">Recycler_icon</string>
+    <string name="contacts_text">Контакты</string>
+    <string name="about_us_text">Про нас</string>
+    <string name="main_scene_text">Главная</string>
+    <string name="app_logo_1_text">Courses</string>
+    <string name="app_logo_2_text">App</string>
+
+</resources>
